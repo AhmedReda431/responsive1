@@ -11,9 +11,10 @@
     .questions .hr{margin-left: 44%}
     .pricing .pricing-paragraph {margin-top: 0;margin-bottom: -50px;}
     .pricing .col-md-4 {margin-left: 0%;}
-    .pricing .pricing-hold .card {margin-left: 3%;}
+    .pricing .pricing-hold .card {margin:auto}
     .social .col-sm-7 ul{margin-bottom: -3%;}
     .social ul li {padding-bottom: 20px;margin-right: 13px;margin-top: 15px;}
+    .social ul li i{font-size: 45px}
     footer ul{padding: 4% 0% 8% 9%;}
     footer ul li {float: left;margin-right: 8px;}
     .mm{
